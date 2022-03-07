@@ -375,7 +375,7 @@ print("x[1:6] ->", x[1:6])
 print("x[2:] ->", x[2:])
 
 # every alternative element, from index 0 to 6th in steps of 2
-print("x[:6:2]", x[:6:2])`
+print("x[:6:2]", x[:6:2])
 
 # from index 1 upto 6, take every 2nd element
 print("x[1:6:2]", x[1:6:2])
